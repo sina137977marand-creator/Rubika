@@ -5,7 +5,7 @@
 import os
 
 # توکن ربات - از @BotFather روبیکا (داخل خود روبیکا) بگیرید
-BOT_TOKEN = os.getenv("BOT_TOKEN", "CBCFFI0NJTUOFXNGLXOMSTYZFSYIVLLATGYEHYODFHYOGTMVMHWUUCRWTXNSXGCY")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "CBCFFI0WNFWHTBCYENCNTSSSABHAGDZTGLZZHLYOHCFHJQRBOSZRUHTWRNNBEKCK")
 
 # chat_id عددی/رشته‌ای مالک اصلی ربات (شما).
 # اولین بار که با ربات در پی‌وی صحبت کنید، با دستور /whoami می‌تونید chat_id خودتون رو ببینید
